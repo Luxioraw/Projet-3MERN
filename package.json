@@ -1,0 +1,20 @@
+{
+  "name": "projet-3mern",
+  "version": "1.0.0",
+  "description": "Ceci est le projet final de la matière 3MERN (MongoDB Express Node.js React) qui consiste à effectuer un site web afin d'afficher la température d'une ou plusieurs villes dans le monde, en respectant une certaines charte graphique pré-défini. Un système d'authentification sécurisé est mit en place, des tests unitaires sont également présent, et le site est entiérement sécurisé contre :",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "create-react-app": "^3.3.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^5.8.9",
+    "password-hash": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
